@@ -1,5 +1,6 @@
 # Projeto ESP32 Ultra-Sonico <br>
 
+## Trabalho feito em Equipe: Pedro e Sidney
 Projeto visando apliar conhecimentos em IOT utilizando: <br>
 * ESP32
 * C
